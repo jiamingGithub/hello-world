@@ -1,6 +1,6 @@
 # hello-world
 
-  pin13  OUTPUT LED
+  pin13  OUTPUT LED/d
   pin23 A0 OUTPUT  SHD
   pin24 A1 OUTPUT  MOD
   pin25 A2 INPUT RDY/CLK
